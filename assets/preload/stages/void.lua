@@ -1,6 +1,11 @@
 doRockHover = false;
 
 function onCreate()
+
+	-- -- background shit
+	makeLuaSprite('bg', 'entity/agoti/bg', -350, -200);
+	setScrollFactor('bg', 0.5, 0.5);
+
 	-- -- background shit
 	makeLuaSprite('tower', 'entity/agoti/tower', -225, -425);
 	setScrollFactor('tower', 0.5, 0.5);
@@ -16,6 +21,7 @@ function onCreate()
 		setScrollFactor('agotirock', 0.8, 0.8);
 	end
 
+	addLuaSprite('bg', false);
 	addLuaSprite('tower', false);
 	addLuaSprite('agotirock', false);
 	doRockHover = true;
