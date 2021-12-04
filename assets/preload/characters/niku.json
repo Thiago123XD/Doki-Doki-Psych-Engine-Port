@@ -57,7 +57,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "entity/nikusa/Nikusa_Sprites",
+	"image": "characters/Nikusa_Sprites",
 	"position": [
 		0,
 		0
