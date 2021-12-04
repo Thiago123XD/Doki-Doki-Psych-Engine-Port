@@ -188,7 +188,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_rock",
+	"image": "entity/agoti/GF_rock",
 	"position": [
 		0,
 		0

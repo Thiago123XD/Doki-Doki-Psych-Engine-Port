@@ -57,7 +57,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Solazar_Sprites",
+	"image": "entity/sol/Solazar_Sprites",
 	"position": [
 		0,
 		0

@@ -200,7 +200,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Boyfriend_Nikusa",
+	"image": "entity/nikusa/BOYFRIEND",
 	"position": [
 		0,
 		350
