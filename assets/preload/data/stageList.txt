@@ -1,4 +1,6 @@
 stage
 void
 city
+hall
+market
 void-crazy
