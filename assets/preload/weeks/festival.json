@@ -1,0 +1,62 @@
+{
+	"songs": [
+		[
+			"crucify (yuri mix)",
+			"yuri",
+			[
+156,115,206
+			]
+		],
+		[
+			"beathoven (natsuki mix)",
+			"natsuki",
+			[
+251,148,212
+			]
+		],
+		[
+			"its complicated (sayori mix)",
+			"sayori",
+			[
+149,224,252
+			]
+		],
+		[
+			"glitcher (monika mix)",
+			"monika",
+			[
+		140,
+		212,
+		101
+			]
+		],
+		[
+			"titular (mc mix)",
+			"protag",
+			[
+		175,
+		83,
+		65
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"neet",
+			"protag",
+			[
+		175,
+		83,
+		65
+			]
+		],
+		[
+			"you and me",
+			"protag",
+			[
+		175,
+		83,
+		65
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

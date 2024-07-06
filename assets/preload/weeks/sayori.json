@@ -1,0 +1,37 @@
+{
+	"songs": [
+		[
+			"rain clouds",
+			"sayori",
+			[
+149,224,252
+			]
+		],
+		[
+			"my confession",
+			"sayori",
+			[
+149,224,252
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

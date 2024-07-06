@@ -1,0 +1,53 @@
+{
+	"songs": [
+		[
+			"hot air balloon",
+			"natsuki",
+			[
+251,148,212
+			]
+		],
+		[
+			"shrinking violet",
+			"yuri",
+			[
+156,115,206
+			]
+		],
+		[
+			"joyride",
+			"sayori",
+			[
+149,224,252
+			]
+		],
+		[
+			"our harmony",
+			"monika",
+			[
+		140,
+		212,
+		101
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

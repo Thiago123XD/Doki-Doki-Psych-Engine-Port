@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"baka-alt",
+			"icon-tankman",
+			[
+		225,
+		225,
+		225
+			]
+		],
+		[
+			"shrinking violet-alt",
+			"icon-spooky",
+			[
+		225,
+		225,
+		225
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

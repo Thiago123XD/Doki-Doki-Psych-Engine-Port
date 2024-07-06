@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"high school conflict",
+			"monika-pixelnew",
+			[
+255,184,230
+			]
+		],
+		[
+			"bara no yume",
+			"duet",
+			[
+255,184,230
+			]
+		],
+		[
+			"your demise",
+			"monika-angrynew",
+			[
+255,184,230
+			]
+		],
+		[
+			"your reality",
+			"monika-pixelnew",
+			[
+73,69,78
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
