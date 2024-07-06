@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Yuri Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Yuri Idle-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Yuri Sing Note Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Yuri Sing Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Yuri Sing Note Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Yuri Sing Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				25
+			],
+			"anim": "nefes",
+			"fps": 24,
+			"name": "Yuri Breath0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-21
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Yuri Sing Note Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-22
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Yuri Sing Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				23
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Yuri Sing Note Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Yuri Sing Note Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yuri/Doki_Yuri_Assets",
+	"position": [
+		0,
+		-350
+	],
+	"healthicon": "yuri",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		115,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

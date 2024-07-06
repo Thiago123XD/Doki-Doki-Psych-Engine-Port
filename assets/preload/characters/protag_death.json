@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				-31
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Protag Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-374,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Protag Dies"
+		},
+		{
+			"offsets": [
+				-384,
+				-32
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Protag Retry Loop"
+		},
+		{
+			"offsets": [
+				-384,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Protag Retry Confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/protag/protag_death",
+	"position": [
+		20,
+		-180
+	],
+	"healthicon": "protag",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		83,
+		65
+	],
+	"camera_position": [
+		-50,
+		-120
+	],
+	"sing_duration": 6,
+	"scale": 1.96
+}

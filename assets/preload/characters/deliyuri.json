@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Yuri Crazy Idle"
+		},
+		{
+			"offsets": [
+				-3,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Yuri Crazy Down"
+		},
+		{
+			"offsets": [
+				154,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Yuri Crazy Left"
+		},
+		{
+			"offsets": [
+				53,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Yuri Crazy Up"
+		},
+		{
+			"offsets": [
+				-44,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Yuri Crazy Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Yuri Crazy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-39
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Yuri Crazy Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				154,
+				13
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Yuri Crazy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				63
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Yuri Crazy Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Yuri Crazy Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yuri/Doki_Crazy_Yuri_Assets",
+	"position": [
+		0,
+		-255
+	],
+	"healthicon": "yuri-crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		115,
+		206
+	],
+	"camera_position": [
+		60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

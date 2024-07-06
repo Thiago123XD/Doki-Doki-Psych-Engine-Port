@@ -1,0 +1,183 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nat Idle0"
+		},
+		{
+			"offsets": [
+				29,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nat Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-25,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nat Sing Note Left"
+		},
+		{
+			"offsets": [
+				45,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nat Sing Note Up"
+		},
+		{
+			"offsets": [
+				-47,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nat Sing Note Right"
+		},
+		{
+			"offsets": [
+				-11,
+				-1
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20,
+				20
+			],
+			"fps": 24,
+			"anim": "hih",
+			"loop": false,
+			"name": "Nat hmph"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/natsuki/Doki_Nat_Assets",
+	"position": [
+		0,
+		-175
+	],
+	"healthicon": "natsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		148,
+		212
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

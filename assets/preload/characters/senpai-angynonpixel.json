@@ -1,0 +1,202 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Senpai Returns Angy0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Senpai Returns Angy0",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Senpai Returns Left Angy0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				31,
+				-4
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Senpai Returns Left Angy0",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Senpai Returns Right Angy0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-15,
+				-12
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Senpai Returns Right Angy0",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Senpai Returns Up Angy0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-8,
+				27
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Senpai Returns Up Angy0",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-78
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Senpai Returns Down Angy0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				-78
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Senpai Returns Down Angy0",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				31,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Senpai Returns Left Angy0"
+		},
+		{
+			"offsets": [
+				-15,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Senpai Returns Right Angy0"
+		},
+		{
+			"offsets": [
+				-8,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Senpai Returns Up Angy0"
+		},
+		{
+			"offsets": [
+				-10,
+				-78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Senpai Returns Down Angy0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SenpaiNonPixel_Assets",
+	"position": [
+		20,
+		-350
+	],
+	"healthicon": "senpai-real",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
