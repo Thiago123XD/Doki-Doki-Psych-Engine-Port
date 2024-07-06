@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DDLCSpookyKids.png">
+<SubTexture name="SkidPumpDown0000" x="0" y="0" width="481" height="535" frameX="-5" frameY="-9" frameWidth="493" frameHeight="545" />
+<SubTexture name="SkidPumpDown0001" x="0" y="0" width="481" height="535" frameX="-5" frameY="-9" frameWidth="493" frameHeight="545" />
+<SubTexture name="SkidPumpDown0002" x="481" y="0" width="492" height="544" frameX="-1" frameY="-1" frameWidth="493" frameHeight="545" />
+<SubTexture name="SkidPumpDown0003" x="481" y="0" width="492" height="544" frameX="-1" frameY="-1" frameWidth="493" frameHeight="545" />
+<SubTexture name="SkidPumpIdle0000" x="973" y="0" width="475" height="554" frameX="-16" frameY="-19" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0001" x="973" y="0" width="475" height="554" frameX="-16" frameY="-19" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0002" x="0" y="554" width="484" height="553" frameX="-4" frameY="-20" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0003" x="0" y="554" width="484" height="553" frameX="-4" frameY="-20" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0004" x="484" y="554" width="484" height="559" frameX="0" frameY="-14" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0005" x="484" y="554" width="484" height="559" frameX="0" frameY="-14" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0006" x="968" y="554" width="487" height="569" frameX="-1" frameY="-5" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0007" x="968" y="554" width="487" height="569" frameX="-1" frameY="-5" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0008" x="0" y="1123" width="485" height="574" frameX="-7" frameY="0" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0009" x="0" y="1123" width="485" height="574" frameX="-7" frameY="0" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0010" x="0" y="1123" width="485" height="574" frameX="-7" frameY="0" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpIdle0011" x="0" y="1123" width="485" height="574" frameX="-7" frameY="0" frameWidth="501" frameHeight="574" />
+<SubTexture name="SkidPumpLeft0000" x="485" y="1123" width="587" height="525" frameX="0" frameY="-11" frameWidth="589" frameHeight="536" />
+<SubTexture name="SkidPumpLeft0001" x="485" y="1123" width="587" height="525" frameX="0" frameY="-11" frameWidth="589" frameHeight="536" />
+<SubTexture name="SkidPumpLeft0002" x="1072" y="1123" width="582" height="531" frameX="-6" frameY="-5" frameWidth="589" frameHeight="536" />
+<SubTexture name="SkidPumpLeft0003" x="1072" y="1123" width="582" height="531" frameX="-6" frameY="-5" frameWidth="589" frameHeight="536" />
+<SubTexture name="SkidPumpRight0000" x="0" y="1697" width="523" height="574" frameX="-13" frameY="0" frameWidth="536" frameHeight="574" />
+<SubTexture name="SkidPumpRight0001" x="0" y="1697" width="523" height="574" frameX="-13" frameY="0" frameWidth="536" frameHeight="574" />
+<SubTexture name="SkidPumpRight0002" x="523" y="1697" width="526" height="574" frameX="-6" frameY="0" frameWidth="536" frameHeight="574" />
+<SubTexture name="SkidPumpRight0003" x="523" y="1697" width="526" height="574" frameX="-6" frameY="0" frameWidth="536" frameHeight="574" />
+<SubTexture name="SkidPumpUp0000" x="1049" y="1697" width="465" height="619" frameX="-2" frameY="0" frameWidth="477" frameHeight="620" />
+<SubTexture name="SkidPumpUp0001" x="1049" y="1697" width="465" height="619" frameX="-2" frameY="0" frameWidth="477" frameHeight="620" />
+<SubTexture name="SkidPumpUp0002" x="0" y="2316" width="471" height="611" frameX="-1" frameY="-8" frameWidth="477" frameHeight="620" />
+<SubTexture name="SkidPumpUp0003" x="0" y="2316" width="471" height="611" frameX="-1" frameY="-8" frameWidth="477" frameHeight="620" />
+</TextureAtlas>

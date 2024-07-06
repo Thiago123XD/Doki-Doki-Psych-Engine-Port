@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monikanew.png">
+<SubTexture name="Mka Alt Down0000" x="0" y="0" width="57" height="108" frameX="-28" frameY="-22" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Down0001" x="0" y="0" width="57" height="108" frameX="-28" frameY="-22" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Down0002" x="57" y="0" width="58" height="109" frameX="-28" frameY="-21" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Down0003" x="57" y="0" width="58" height="109" frameX="-28" frameY="-21" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0000" x="115" y="0" width="70" height="116" frameX="-24" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0001" x="115" y="0" width="70" height="116" frameX="-24" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0002" x="185" y="0" width="69" height="115" frameX="-24" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0003" x="185" y="0" width="69" height="115" frameX="-24" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0004" x="254" y="0" width="68" height="116" frameX="-24" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0005" x="254" y="0" width="68" height="116" frameX="-24" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0006" x="322" y="0" width="70" height="117" frameX="-23" frameY="-12" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0007" x="322" y="0" width="70" height="117" frameX="-24" frameY="-12" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0008" x="0" y="117" width="73" height="115" frameX="-22" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0009" x="0" y="117" width="73" height="115" frameX="-22" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0010" x="73" y="117" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0011" x="73" y="117" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0012" x="73" y="117" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0013" x="73" y="117" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0014" x="73" y="117" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Idle0015" x="73" y="117" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Left0000" x="145" y="117" width="58" height="114" frameX="-31" frameY="-15" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Left0001" x="145" y="117" width="58" height="114" frameX="-31" frameY="-15" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Left0002" x="203" y="117" width="59" height="115" frameX="-32" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Left0003" x="203" y="117" width="59" height="115" frameX="-32" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Right0000" x="262" y="117" width="68" height="115" frameX="-30" frameY="-15" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Right0001" x="262" y="117" width="68" height="115" frameX="-30" frameY="-15" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Right0002" x="330" y="117" width="69" height="116" frameX="-27" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Right0003" x="330" y="117" width="69" height="116" frameX="-27" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Up0000" x="0" y="233" width="57" height="119" frameX="-36" frameY="-11" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Up0001" x="0" y="233" width="57" height="119" frameX="-36" frameY="-11" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Up0002" x="0" y="233" width="57" height="119" frameX="-36" frameY="-11" frameWidth="115" frameHeight="140" />
+<SubTexture name="Mka Alt Up0003" x="57" y="233" width="55" height="118" frameX="-36" frameY="-12" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaDown0000" x="0" y="0" width="57" height="108" frameX="-28" frameY="-22" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaDown0001" x="0" y="0" width="57" height="108" frameX="-28" frameY="-22" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaDown0002" x="57" y="0" width="58" height="109" frameX="-28" frameY="-21" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaDown0003" x="57" y="0" width="58" height="109" frameX="-28" frameY="-21" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0000" x="112" y="233" width="70" height="116" frameX="-24" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0001" x="112" y="233" width="70" height="116" frameX="-24" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0002" x="182" y="233" width="69" height="115" frameX="-24" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0003" x="182" y="233" width="69" height="115" frameX="-24" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0004" x="251" y="233" width="68" height="116" frameX="-24" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0005" x="251" y="233" width="68" height="116" frameX="-24" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0006" x="319" y="233" width="70" height="117" frameX="-23" frameY="-12" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0007" x="319" y="233" width="70" height="117" frameX="-23" frameY="-12" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0008" x="0" y="352" width="73" height="115" frameX="-22" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0009" x="0" y="352" width="73" height="115" frameX="-22" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0010" x="73" y="352" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0011" x="73" y="352" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0012" x="73" y="352" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0013" x="73" y="352" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0014" x="73" y="352" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaIdle0015" x="73" y="352" width="72" height="116" frameX="-22" frameY="-13" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaLeft0000" x="145" y="352" width="58" height="114" frameX="-31" frameY="-15" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaLeft0001" x="145" y="352" width="58" height="114" frameX="-31" frameY="-15" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaLeft0002" x="203" y="352" width="59" height="115" frameX="-32" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaLeft0003" x="203" y="352" width="59" height="115" frameX="-32" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaRight0000" x="262" y="352" width="68" height="115" frameX="-30" frameY="-15" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaRight0001" x="262" y="352" width="68" height="115" frameX="-30" frameY="-15" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaRight0002" x="330" y="352" width="69" height="116" frameX="-27" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaRight0003" x="330" y="352" width="69" height="116" frameX="-27" frameY="-14" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaUp0000" x="0" y="468" width="57" height="119" frameX="-36" frameY="-11" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaUp0001" x="0" y="468" width="57" height="119" frameX="-36" frameY="-11" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaUp0002" x="0" y="468" width="57" height="119" frameX="-36" frameY="-11" frameWidth="115" frameHeight="140" />
+<SubTexture name="MkaUp0003" x="57" y="468" width="55" height="118" frameX="-36" frameY="-12" frameWidth="115" frameHeight="140" />
+</TextureAtlas>
